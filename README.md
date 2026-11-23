@@ -1,16 +1,12 @@
-### Nicholas Kaufman
+Nick Kaufman. Technical support for payments and fintech software, remote or Austin, TX.
 
-**Technical Support Engineer | Payments / Fintech | SQL · XML · TCP/IP**  
-Open to Implementation Engineer / Customer Success Engineer roles — Remote or Austin TX
+When a payment integration breaks, I find out where: the app, the data, or the network. Then the customer gets a fix they can run, or engineering gets an escalation they can act on without coming back to ask.
 
-I sit at the bridge between customers and engineering — diagnosing payment integration problems at the application, data, and network layers, then turning what I find into either a working customer fix or a clean engineering escalation.
+Right now I do product support on an enterprise payment platform. Before that I spent 3 years at Redtail Technology supporting CRM software for financial advisors under SEC and FINRA rules, then moved to Cita Marketplace. About 6 years of customer-facing technical work in all.
 
-**Currently** at Tempus Technologies supporting PaymentMate, a locally installed payment processing platform for enterprise merchants.
+On the side I build [agent-order-record](https://github.com/Flyingmiata-droid/agent-order-record). An AI agent buys something with a card, the cardholder says they never ordered it, and the merchant needs evidence a dispute form will take. It is a prototype: a dated scorecard of what each gateway can carry, plus code that turns an evidence bundle into dispute fields.
 
-**Background:** 5+ years in customer-facing technical roles (Tempus, Cita Marketplace, Redtail Technology). 3.5 years supporting CRM software for financial advisors under SEC/FINRA compliance. Certified ScrumMaster (CSM, Scrum Alliance).
+Tools: SQL, XML, Python, Linux, TCP/IP, Oracle Fusion, Zendesk, Salesforce, JIRA, ITIL incident management.
 
-**Building:** SQL portfolio project on a public payments / e-commerce dataset. Working through Postman API troubleshooting fundamentals.
-
-**Stack:** SQL · XML · Python · Linux · TCP/IP · Oracle Fusion · Zendesk · Salesforce · JIRA · ITIL incident management.
-
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/nick-kaufman-tx/) · Nicksresume@protonmail.com
+LinkedIn: https://www.linkedin.com/in/nick-kaufman-tx/
+Email: Nicksresume@protonmail.com
